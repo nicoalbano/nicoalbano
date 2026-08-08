@@ -17,27 +17,18 @@ I'm currently completing my degree in Electronic Engineering, with a strong inte
 
 ### 💻 Technologies & Tools
 
-**Programming:**
-C · C++ · Python · ARM Assembly
+#### Programming
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
-**Embedded & Systems:**
-ARM · Linux · BeagleBone Black · Microcontrollers
+#### Embedded & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![BeagleBone](https://img.shields.io/badge/BeagleBone-000000?style=for-the-badge&logo=beagleboard&logoColor=white)
 
-**Hardware & Electronics:**
-Altium Designer · MATLAB · Simulink · ADS
-
-### 🚀 Featured Projects
-
-🔹 **ARM Microkernel**
-Bare-metal microkernel developed on ARM Cortex-A8, including task scheduling, interrupts, MMU and virtual memory.
-
-🔹 **Linux MPU6050 Driver & Sensor Server**
-Linux character driver for an MPU6050 sensor, combined with a C client-server application and inter-process communication.
-
-🔹 **AIS Receiver**
-RF receiver project involving PCB design, RF signal routing and 50 Ω transmission lines.
-
----
-
-📫 Feel free to explore my repositories and projects.
-
+#### Hardware & Engineering
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
